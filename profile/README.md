@@ -4,12 +4,12 @@
 
 - 🔭 We’re currently working on [scaling the impact of design through technology](https://weme.com.br/)
 
-- 👯 I’m looking to collaborate on [new businesses, products and services](https://www.linkedin.com/company/weme/)
+- 👯 We’re looking to collaborate on [new businesses, products and services](https://www.linkedin.com/company/weme/)
 
 - 📫 How to reach us **fred@weme.nu**
 
 <br/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/weme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weme" height="30" width="40" /></a>
 <a href="https://instagram.com/redeweme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="redeweme" height="30" width="40" /></a>
