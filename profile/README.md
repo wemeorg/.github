@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, we're weme</h1>
 <h3 align="center">A passionate group of designers and developers from Brazil</h3>
-<img src="https://wemenotion.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F18c7b369-160f-46b2-bc06-a5b30a2da302%2F001.jpg?table=block&id=6f505c68-8521-464d-b208-2edc7ff33e10&spaceId=5cc2c302-ff5e-4f9f-b734-7368d963abcc&width=2000&userId=&cache=v2" alt="weme" width="100%"/>
+<img src="https://wemenotion.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7bbaea1d-103d-4680-a4ea-1a19c08dbf30%2F16.jpg?table=block&id=f77a79e1-a221-48a0-a91d-f9d9b5b9770a&spaceId=5cc2c302-ff5e-4f9f-b734-7368d963abcc&width=2000&userId=&cache=v2" alt="weme" width="100%"/>
 
 - 🔭 We’re currently working on [scaling the impact of design through technology](https://weme.com.br/)
 
