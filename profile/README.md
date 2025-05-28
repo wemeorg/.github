@@ -6,7 +6,7 @@
 
 - 👯 We’re looking to collaborate on [new businesses, products and services](https://www.linkedin.com/company/weme/)
 
-- 📫 How to reach us **fred@weme.nu**
+- 📫 How to reach us **sergio.oliveira@weme.nu**
 
 <br/>
 <h3 align="left">Connect with us:</h3>
